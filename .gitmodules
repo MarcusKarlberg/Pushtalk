@@ -113,3 +113,9 @@
 [submodule "submodules/externals/openh264"]
 	path = submodules/externals/openh264
 	url = https://gitlab.linphone.org/BC/public/external/openh264.git
+[submodule "submodules/linphone"]
+	path = submodules/linphone
+	url = https://github.com/MarcusKarlberg/pushtalk-linphone.git
+[submodule "submodules/mediastreamer2"]
+	path = submodules/mediastreamer2
+	url = https://github.com/MarcusKarlberg/pushtalk-mediastreamer2.git
